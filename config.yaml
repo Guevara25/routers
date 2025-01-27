@@ -7,7 +7,7 @@
 
   - name: Add Banner
 
-    ios_banner:
+    cisco.ios.ios_banner module:
       banner: login
       text: |
         cISCO 123456
