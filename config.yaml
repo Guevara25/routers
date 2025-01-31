@@ -11,6 +11,5 @@
     cisco.ios.ios_banner:
       banner: login
       text: |
-        Nicolas Cage is the
-        Tiger King
+        Blannier is the king
       state: present
